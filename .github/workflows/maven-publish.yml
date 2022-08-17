@@ -31,4 +31,4 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: github-artifact
-        path: /target/testit-client-0.1.jar
+        path: target/testit-client-0.1.jar
