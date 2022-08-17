@@ -30,6 +30,5 @@ jobs:
     - name: Publish to GitHub Packages Apache Maven
       uses: actions/upload-artifact@v3
       with:
-        name: github-artifact
+        name: testit-client-0.1
         path: target/testit-client-0.1.jar
-        version: 0.1
