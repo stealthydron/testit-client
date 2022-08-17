@@ -32,3 +32,4 @@ jobs:
       with:
         name: github-artifact
         path: target/testit-client-0.1.jar
+        version: 0.1
